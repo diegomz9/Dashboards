@@ -1,6 +1,6 @@
 # Market Analysis Insights — 10 U.S. Companies (2025)
 
-This document summarizes the key analytical insights  from a two-page Power BI dashboard analyzing **returns, trading volume, price behavior, etc** for 10 major U.S. companies during 2025.
+This document summarizes the key analytical insights  from a two-page Power BI dashboard analyzing returns, trading volume, price behavior, etc for 10 major U.S. companies during 2025.
 
 ---
 
@@ -13,7 +13,7 @@ Yearly Performance across the 10 companies was highly dispersed, with annual ret
 
 **Yearly Key takeaways**
 - Only **3 out of 10 companies** exceeded a 20% annual return    
-- Market performance favored **stock selection over sector-wide exposure**
+- Market performance favored stock selection over sector-wide exposure
 
 ---
 
@@ -22,14 +22,14 @@ Yearly Performance across the 10 companies was highly dispersed, with annual ret
 
 #### Yearly Top Performers
 - **Google (+65.9%)**  
-  Clear outlier, delivering nearly **2× the return** of the second-best performer
+  Clear outlier, delivering almost 2× the return of the second-best performer
 - **NVIDIA (+34.9%)**  
   Strong growth momentum aligned with heavy market participation
 - **Walmart (+25.0%)**  
-  A notable **defensive outperformer**, surpassing several large tech companies
+  A notable defensive outperformer, surpassing several large tech companies
 
 **Insight**  
-High returns were not exclusive to high-growth technology stocks. Walmart’s performance highlights **investor confidence in defensive business models** during periods of market uncertainty.
+High returns were not exclusive to high growth technology stocks. Walmart performance highlights investor confidence in defensive business models during periods of market uncertainty.
 
 ---
 
@@ -51,7 +51,7 @@ High returns were not exclusive to high-growth technology stocks. Walmart’s pe
 - **Meta — 3.9B**
 
 **Insight**  
-Trading activity was **highly concentrated in high-beta, narrative-driven stocks**, with NVIDIA alone accounting for a disproportionately large share of total market volume.
+Trading activity was highly concentrated in high-beta, narrative-driven stocks, with NVIDIA alone accounting for a disproportionately large share of total market volume (yearly and monthly #1 in volume).
 
 ---
 
@@ -130,7 +130,7 @@ Growth favored AI and innovation-driven companies, while defensive consumer stoc
 **Insight**  
 The data supports a clear segmentation between:
 - **High volatility / high growth potential** (tech)
-- **Low volatility / stability-oriented** stocks (consumer staples)
+- **Low volatility / stability oriented** stocks (consumer staples)
 
 ---
 
@@ -141,7 +141,7 @@ The data supports a clear segmentation between:
 - **December prices exceeded January levels for 9 out of 10 companies**
 
 **Insight**  
-Many stocks followed a **V-shaped pattern**: early-year decline followed by strong recovery, highlighting the importance of timing and holding periods.
+Many stocks followed a **V-shaped pattern**. Highlighting the importance of timing and holding periods.
 
 ---
 
@@ -157,6 +157,6 @@ Consumer staples provided portfolio stability during a volatile year, while tech
 
 ## Final Note
 
-This analysis demonstrates how **combining returns, volume, price trends, and volatility** in an interactive Power BI dashboard enables deeper market understanding.
+This analysis demonstrates how combining returns, volume, price trends, and volatility in an interactive Power BI dashboard enables deeper market understanding.
 
 Done by Diego Martinez Zubillaga
