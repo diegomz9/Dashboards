@@ -55,7 +55,7 @@ High trading volume does not guarantee high returns. Stocks like NVIDIA and Goog
 ---
 
 
-➡️ A full written analysis is available in [`Insights.md`](Insights.md)
+A full written analysis is available in [`Insights.md`](Insights.md)
 
 ---
 
