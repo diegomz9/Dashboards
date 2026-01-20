@@ -59,4 +59,5 @@ A full written analysis is available in [`Insights.md`](Insights.md)
 
 ---
 
+Done by Diego Martinez Zubillaga
 
