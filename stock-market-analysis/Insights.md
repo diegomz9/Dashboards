@@ -151,7 +151,7 @@ Many stocks followed a **V-shaped pattern**: early-year decline followed by stro
 - **Consumer staples**: Lower prices, low volatility, steady moderate growth
 
 **Final Insight**  
-Consumer staples provided **portfolio stability** during a volatile year, while tech stocks offered **higher upside at greater risk**, reinforcing a diversification narrative.
+Consumer staples provided portfolio stability during a volatile year, while tech stocks offered higher upside at greater risk, reinforcing a diversification narrative.
 
 ---
 
@@ -159,4 +159,4 @@ Consumer staples provided **portfolio stability** during a volatile year, while 
 
 This analysis demonstrates how **combining returns, volume, price trends, and volatility** in an interactive Power BI dashboard enables deeper market understanding.
 
-Diego Martinez Zubillaga
+Done by Diego Martinez Zubillaga
