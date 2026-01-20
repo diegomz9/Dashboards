@@ -26,6 +26,6 @@ This repository serves as a portfolio of analytics projects intended for:
 ## Author
 **Diego Martinez Zubillaga**  CS Grad - Business Analytics
 
-📎 LinkedIn: *https://www.linkedin.com/in/diego-martinez-zubillaga/*
+LinkedIn: *https://www.linkedin.com/in/diego-martinez-zubillaga/*
 
 ---
