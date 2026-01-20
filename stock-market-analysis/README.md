@@ -59,5 +59,4 @@ High trading volume does not guarantee high returns. Stocks like NVIDIA and Goog
 
 ---
 
-## 📂 Repository Structure
 
