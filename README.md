@@ -12,6 +12,8 @@ This repository contains a growing collection of data analytics and business int
 
 Folder: `stock-market-analysis/`
 
+https://github.com/diegomz9/Dashboards/tree/main/stock-market-analysis
+
 ---
 
 ## Purpose
