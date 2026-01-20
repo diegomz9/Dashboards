@@ -158,3 +158,5 @@ Consumer staples provided **portfolio stability** during a volatile year, while 
 ## Final Note
 
 This analysis demonstrates how **combining returns, volume, price trends, and volatility** in an interactive Power BI dashboard enables deeper market understanding.
+
+Diego Martinez Zubillaga
