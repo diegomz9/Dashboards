@@ -3,8 +3,14 @@ Dashboards Portfolio
 This repository contains a growing collection of data analytics and business intelligence dashboards built using tools such as **Power BI**, **Excel**, and **SQL**.
 
 ---
-
 ## Available Dashboards
+
+### Procurement Performance Dashboard
+**Tools:** Power BI  
+**Focus:** Comprehensive procurement analysis including negotiated savings, supplier scorecarding, quality & compliance , delivery performance, and monthly trends across categories and suppliers.  
+Folder: `procurement-dashboard/`  
+
+
 
 ### Stock Market Analysis
 **Tools:** Power BI  
