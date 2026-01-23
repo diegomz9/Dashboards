@@ -5,14 +5,15 @@ This repository contains a growing collection of data analytics and business int
 ---
 ## Available Dashboards
 
-### Procurement Performance Dashboard
+### 1 - Procurement Performance Dashboard
 **Tools:** Power BI  
 **Focus:** Comprehensive procurement analysis including negotiated savings, supplier scorecarding, quality & compliance , delivery performance, and monthly trends across categories and suppliers.  
 Folder: `ProcurementAnalysis/`  
 https://github.com/diegomz9/Dashboards/tree/main/ProcurementAnalysis
 
 
-### Stock Market Analysis
+
+### 2- Stock Market Analysis
 **Tools:** Power BI  
 **Focus:** Market performance, returns, trading volume, volatility, and sector comparisons.
 
