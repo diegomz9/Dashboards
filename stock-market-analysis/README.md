@@ -28,7 +28,8 @@ The goal of this dashboard is not only to visualize financial data, but to extra
 ## Dashboard Pages
 
 ### Page 1 — Market Performance & Investor Behavior
-<img width="1306" height="729" alt="image" src="https://github.com/user-attachments/assets/80453edc-7b7e-45b2-9ee9-45d3c4e56362" />
+<img width="1303" height="724" alt="image" src="https://github.com/user-attachments/assets/bdd168cb-6292-40d4-a1b0-1081e96877ed" />
+
 
 
 **Focus areas:**
@@ -43,7 +44,7 @@ High trading volume does not guarantee high returns. Stocks like NVIDIA and Goog
 ---
 
 ### Page 2 — Price Trends, Growth & Volatility per Company
-<img width="1292" height="731" alt="image" src="https://github.com/user-attachments/assets/8a92097f-569f-4aac-8858-262a88c5822f" />
+<img width="1300" height="722" alt="image" src="https://github.com/user-attachments/assets/5478b240-5f6c-4df1-ada1-2bde64f8bddb" />
 
 
 **Focus areas:**
