@@ -24,9 +24,11 @@ https://github.com/diegomz9/Dashboards/tree/main/stock-market-analysis
 
 ## Purpose
 This repository serves as a portfolio of analytics projects intended for:
-- Recruiters and hiring managers
-- Demonstrating data visualization and insight generation skills
 - Continuous learning and experimentation
+- Demonstrating data visualization and insight generation skills
+- Recruiters and hiring managers
+
+
 
 
 ---
