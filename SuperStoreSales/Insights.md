@@ -105,29 +105,28 @@
 | Office Supplies | $149,513  | $133,124  | $182,418  | $240,368  | $705,422   |
 | **Total**       | **$479,856** | **$459,436** | **$600,193** | **$722,052** | **$2,261,537** |
 
-- **Technology** is the strongest and fastest-growing category (+55% from 2015 to 2018).
+- **Technology** - is the strongest and fastest-growing category (+55% from 2015 to 2018).
 - Consistent year-over-year growth across all categories — especially strong 2017–2018 acceleration.
 
 ### Top 10 Best-Selling Products (by Sales Share)
 
-1. Canon imageCLASS 2200 Advanced Copier → **25.18%**
-2. Fellowes PB500 Electric Punch Plastic Comb → 11.22%
-3. Cisco TelePresence System EX90 → 9.25%
-4. HON 5400 Series Task Chairs → 8.94%
-5. GBC DocuBind TL300 Electric Binding System → 8.10%
-6. GBC Ibimaster 500 Manual ProClick Binding → 7.78%
-7. Hewlett Packard LaserJet 3310 → 7.70%
-8. HP Designjet T520 Inkjet Large Format → 7.51%
-9. GBC DocuBind P400 Electric Binding System → 7.34%
-10. High Speed Automatic Electric Letter Opener → 6.96%
+1. Canon imageCLASS 2200 Advanced Copier → **2.72%**
+2. Fellowes PB500 Electric Punch Plastic Comb → 1.21%
+3. Cisco TelePresence System EX90 → 1.00%
+4. HON 5400 Series Task Chairs → 0.97%
+5. GBC DocuBind TL300 Electric Binding System → 0.88%
+6. GBC Ibimaster 500 Manual ProClick Binding → 0.84%
+7. Hewlett Packard LaserJet 3310 → 0.83%
+8. HP Designjet T520 Inkjet Large Format → 0.81%
+9. GBC DocuBind P400 Electric Binding System → 0.79%
+10. High Speed Automatic Electric Letter Opener → 0.75%
 
 ### Key Insights & Recommendations
-REVISAR ACAAAAAAAAAAAAAAAAAAA
-- Extreme concentration: **top 1 product** (especially Canon copier) drive disproportionate revenue.
-- Phones subcategory leads → strong demand for communication/tech hardware.
+- Extreme concentration: **top 1 product** 2.72% (Canon copier) drive disproportionate revenue.
+- Phones (14.49%) and Chair (14.27%) subcategory leads → strong demand for communication/tech hardware and chairs.
 - **Action items**:
-  - Ensure **high availability** and marketing focus on top 10 SKUs (especially Canon, Fellowes, Cisco).
+  - Ensure **high availability** and marketing focus on top 10 SKUs (especially Canon and Fellowes).
   - Explore **product bundling** (e.g., copier + binding systems, chairs + storage) to increase AOV.
-  - Prioritize **Technology category** inventory planning and promotional budget allocation.
+  - Prioritize **Technology and Office Supplies category** inventory planning and promotional budget allocation. (Only 1 top product is Furnitues)
 
 Done by Diego Martinez Zubillaga
