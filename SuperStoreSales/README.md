@@ -45,6 +45,7 @@ It helps answer core business questions around revenue drivers, geographic & cus
 - Interactive filters: Category, Region, City, Date range
 
 **Key insight:** Strong overall performance with fast delivery (~4 days) and healthy AOV ($459), but heavy reliance on West + East (61% combined) and pronounced seasonality (Q4 spikes).
+<img width="1163" height="672" alt="image" src="https://github.com/user-attachments/assets/77e1c4d8-ab04-4014-80b9-0c9dfe0cf9d3" />
 
 ### Page 2 — Customer Insights
 
@@ -56,6 +57,7 @@ It helps answer core business questions around revenue drivers, geographic & cus
 - Interactive filters
 
 **Key insight:** Consumer segment dominates volume and seasonal peaks. High-value customers are concentrated — top 20 represent a meaningful share of total revenue → retention & upselling programs recommended.
+<img width="1158" height="656" alt="image" src="https://github.com/user-attachments/assets/c18c625a-9016-442a-847f-7d48e59d2457" />
 
 ### Page 3 — Product Analysis
 
@@ -67,6 +69,9 @@ It helps answer core business questions around revenue drivers, geographic & cus
 - Interactive filters
 
 **Key insight:** Technology is the fastest-growing and highest-revenue category. Product concentration (top 1 item drive outsized share) and explore bundling opportunities.
+<img width="1146" height="657" alt="image" src="https://github.com/user-attachments/assets/2d679c46-559c-4304-ad9a-8628e6ff387c" />
+
+
 
 A full detailed written analysis with metrics, insights, and actionable recommendations is available in **[insights.md](./Insights.md)**.
 
