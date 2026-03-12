@@ -68,6 +68,6 @@ It helps answer core business questions around revenue drivers, geographic & cus
 
 **Key insight:** Technology is the fastest-growing and highest-revenue category. Product concentration (top 1 item drive outsized share) and explore bundling opportunities.
 
-A full detailed written analysis with metrics, insights, and actionable recommendations is available in **[insights.md](./Insights.md)**.
+A full detailed written analysis with metrics, insights, and actionable recommendations is available in **[[insights.md](./Insights.md)](https://github.com/diegomz9/Dashboards/blob/main/SuperStoreSales/Insights.md)**.
 
 Done by Diego Martinez Zubillaga
