@@ -7,13 +7,13 @@ This repository contains a growing collection of data analytics and business int
 
 ### 1 - Procurement Performance Dashboard
 **Tools:** Power BI  
-**Focus:** Comprehensive procurement analysis including negotiated savings, supplier scorecarding, quality & compliance , delivery performance, and monthly trends across categories and suppliers.  
+**Focus:** Procurement analysis including negotiated savings, supplier scorecarding, quality & compliance , delivery performance, and monthly trends across categories and suppliers.  
 Folder: `ProcurementAnalysis/`  
 https://github.com/diegomz9/Dashboards/tree/main/ProcurementAnalysis
 
 ### 2 - SuperStore Sales Dashboard
 **Tools:** Power BI  
-**Focus:** Comprehensive sales performance analysis including regional breakdown, customer segment contributions & top spenders, product/category/subcategory performance, yearly trends, seasonal patterns, and delivery efficiency across 2015–2018.
+**Focus:** Sales performance analysis including regional breakdown, customer segment contributions & top spenders, product/category/subcategory performance, yearly trends, seasonal patterns, and delivery efficiency across 2015–2018.
 
 Folder: `SuperstoreSalesAnalysis/`  
 https://github.com/diegomz9/Dashboards/tree/main/SuperStoreSales
