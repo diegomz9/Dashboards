@@ -1,6 +1,6 @@
 Dashboards Portfolio
 
-This repository contains a growing collection of data analytics and business intelligence dashboards built using tools such as **Power BI**, **Excel**, and **SQL**.
+This repository contains a growing collection of data analytics and business intelligence dashboards built using tools such as **Power BI**, **Excel**, and **SQL**. I use this site to practice and keep growing my data skills. 
 
 ---
 ## Available Dashboards
